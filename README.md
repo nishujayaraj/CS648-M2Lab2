@@ -1,1 +1,3 @@
 # CS648-M2Lab2
+
+This assignment is a front-end web form designed for adding employees to an Employee Management System. It utilizes Bootstrap for styling and JavaScript for handling form submissions. The form includes fields for Employee ID, Name, Extension, Email, and Department, along with a Submit button. When submitted, the form logs the entered data to the browser console. The project focuses on clean, efficient code while incorporating modern JavaScript practices.
